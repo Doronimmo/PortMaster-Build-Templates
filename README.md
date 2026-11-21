@@ -4,7 +4,7 @@ Holding repo for meta information and assets needed to build/update ports in Por
 <!-- PORT-STATUS-START -->
 ## Port Status
 
-_Last checked: 2026-11-20_
+_Last checked: 2026-11-21_
 
 | Title | Port | Status | Version | Date Updated | PM Date Updated |
 |-------|------|--------|---------|--------------|-----------------|
@@ -12,7 +12,7 @@ _Last checked: 2026-11-20_
 | Defendguin | defendguin | 🟢 OK | commit:556ad68 | 2026-10-16 | 2026-02-14 |
 | -- | edgar | 🟢 OK | 1.38 | 2026-03-27 | -- |
 | -- | epiphany | 🔴 ERROR | commit:316b357 | 2026-10-16 | -- |
-| Harmonist | harmonist | 🔴 ERROR | v1.0.3 | 2026-08-07 | 2026-01-07 |
+| Harmonist | harmonist | 🟢 OK | v1.0.3 | 2026-08-07 | 2026-01-07 |
 | Manic Miner | manicminer | 🟢 OK | 1.1.1 | 2026-03-01 | 2025-11-04 |
 | Shamogu | shamogu | 🟢 OK | v1.6.0 | 2026-09-25 | 2026-08-21 |
 | Space Invaders Part 2 | sip2 | 🟢 OK | commit:8ce398a | 2026-10-16 | 2026-03-17 |
@@ -21,7 +21,7 @@ _Last checked: 2026-11-20_
 | SpaghettiKart | spaghettikart | 🟢 OK | 1.0.0 | 2026-03-14 | 2025-09-08 |
 | Stunt Car Racer | stuntcarracer | 🟢 OK | continuous | 2026-02-25 | 2026-01-25 |
 
-_Checked: 12 &nbsp; OK: 9 &nbsp; Updates: 0 &nbsp; Errors: 3 &nbsp; Skipped: 0_
+_Checked: 12 &nbsp; OK: 10 &nbsp; Updates: 0 &nbsp; Errors: 2 &nbsp; Skipped: 0_
 <!-- PORT-STATUS-END -->
 
 ## A slightly different approach
